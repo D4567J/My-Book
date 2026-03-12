@@ -4,6 +4,14 @@
 
 \section{Electro Magnetism}
 
+\subsection{Static}
+\subsubsection{Electic Field}
+This type of electric field is based static charge, and can be thought of like gravity such that the force being exerted is all around if in a 3 d manner that diminishes with the greater range from the source.
+
+\begin{equation}
+  F = \frac{1}{4\pi\epsilon}\left( \frac{Q_{1}Q_{2}}{r^2} \right)
+\end{equation}
+
 \section{Radar}
 Radar: Radio Detection And Ranging. Is simply the transmission and receiving of Radio waves. From these radio waves it is possible to determine many things about the incident target.
 
@@ -22,6 +30,28 @@ Where $P_d$ is the power desnity at some radius, $P_t$ is the power transmitted 
 \subsection{SAR}
 
 \section{Signals and Systems}
+
+\subsection{Adaptive Filtering}
+
+\subsubsection{ What is an Adaptive filter}
+An adaptive filter uses a Wiener Filter structure but iterates it and adjusts it such that the error is reduced and it begins to approach the ideal filter.
+
+\begin{equation}
+  h(n+1) = h(n)+\Delta h(n)
+\end{equation}
+
+\begin{equation}
+  \Delta h(n) = -\gamma(\frac{d \sigma^2_{e_{\text{min}}}}{dh})
+\end{equation}
+
+\subsubsection{Applications} 
+Using the ides of Wiener Filters and  Error Surfaces they can be applied inot the ideas of signal recovery in a noisey channel and noise cancellation. 
+
+Noise cancellation
+Given a the noisy signal and correlated noise we are able to filter the correlated noise such that it matches the noise of the signal and thus allows us to canel it out leaving only the signal in its place. 
+
+ 
+
 
 \subsection{Sampling}
 

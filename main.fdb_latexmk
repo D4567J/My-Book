@@ -1,12 +1,12 @@
 # Fdb version 4
-["biber main"] 0 "main.bcf" "main.bbl" "main" 1773351063.6941 0
+["biber main"] 0 "main.bcf" "main.bbl" "main" 1773352080.19635 0
   "M-sequence Paper.bib" 0 -1 0 ""
   "main.bcf" 0 -1 0 "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1773351061.7805 "g:/My Drive/Repos/My-Book/main.tex" "main.pdf" "main" 1773351063.7059 0
+["pdflatex"] 1773352078.20642 "g:/My Drive/Repos/My-Book/main.tex" "main.pdf" "main" 1773352080.20962 0
   "C:/Users/DAVID/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1769748273 82507 a9eef8696c92627b87e9975edea03b2a ""
   "C:/Users/DAVID/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1095.pk" 1769748277 12668 deff7e7ef321aa693698c13bae2b9005 ""
   "C:/Users/DAVID/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1769542167 13333487 ffb278799bcdb0a73e6d2b6e63ec866f ""
@@ -34,12 +34,15 @@
   "C:/Users/DAVID/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmsy8.tfm" 1136765053 1120 8b7d695260f3cff42e636090a8002094 ""
   "C:/Users/DAVID/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb" 1247596666 34811 78b52f49e893bcba91bd7581cdc144c0 ""
   "C:/Users/DAVID/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb" 1247596666 32080 340ef9bf63678554ee606688e7b5339d ""
+  "C:/Users/DAVID/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb" 1247596667 30251 6afa5cb1d0204815a708a080681d4674 ""
   "C:/Users/DAVID/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb" 1247596667 36299 5f9df58c2139e7edcf37c8fca4bd384d ""
   "C:/Users/DAVID/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb" 1247596666 35469 dcf3a5f2fc1862f5952e3ee5eb1d98c4 ""
   "C:/Users/DAVID/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1247596667 35752 024fb6c41858982481f6968b5fc26508 ""
   "C:/Users/DAVID/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb" 1247596667 32722 d7379af29a190c3f453aba36302ff5a9 ""
   "C:/Users/DAVID/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb" 1247596666 32362 bc3f3eec7ab7d65fe700963d4017d32c ""
+  "C:/Users/DAVID/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb" 1247596667 32734 69e00a6b65cedb993666e42eedb3d48f ""
   "C:/Users/DAVID/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb" 1247596667 32726 39f0f9e62e84beb801509898a605dbd5 ""
+  "C:/Users/DAVID/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb" 1247596667 32569 5e5ddc8df908dea60932f3c484a54c0d ""
   "C:/Users/DAVID/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb" 1247596673 34694 870c211f62cb72718a00e353f14f254d ""
   "C:/Users/DAVID/AppData/Local/Programs/MiKTeX/tex/generic/bigintcalc/bigintcalc.sty" 1576433602 40635 c40361e206be584d448876bba8a64a3b ""
   "C:/Users/DAVID/AppData/Local/Programs/MiKTeX/tex/generic/bitset/bitset.sty" 1575926576 33961 6b5c75130e435b2bfdb9f480a09a39f9 ""
@@ -98,15 +101,15 @@
   "C:/Users/DAVID/AppData/Local/Programs/MiKTeX/tex/latex/refcount/refcount.sty" 1576433952 9878 9e94e8fa600d95f9c7731bb21dfb67a4 ""
   "C:/Users/DAVID/AppData/Local/Programs/MiKTeX/tex/latex/rerunfilecheck/rerunfilecheck.sty" 1751104012 9684 a33a14b82ce60d6e77cb9be689d79ee6 ""
   "C:/Users/DAVID/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
-  "ee.tex" 1772739298 981 5e970d69a17b8ceb403229fa5e6f5ea8 ""
+  "ee.tex" 1773352080 2178 9d1dcc549b40619cf4c1db441907cb93 ""
   "g:/My Drive/Repos/My-Book/main.tex" 1773350648 420 91d4d465e8c72abd7acb1bee76b9696b ""
   "leadership.tex" 1773351061 1101 3a37af23effaf36c3197496ba6caa29f ""
-  "main.aux" 1773351063 2508 71f28904c019f9fe310e4a852b4ebadf "pdflatex"
+  "main.aux" 1773352079 3073 98f807ed3dc8aa578c2bcc1109c540b2 "pdflatex"
   "main.bbl" 0 -1 0 "biber main"
-  "main.out" 1773351063 1913 93df4e5c53c75ac5e18b0ad05e2e2b97 "pdflatex"
-  "main.run.xml" 1773351063 2408 46d12d816aca166a56e9d991bac2349e "pdflatex"
+  "main.out" 1773352079 2160 e4e651133b39166ab25a337a8079cf8f "pdflatex"
+  "main.run.xml" 1773352079 2408 46d12d816aca166a56e9d991bac2349e "pdflatex"
   "main.tex" 1773350648 420 91d4d465e8c72abd7acb1bee76b9696b ""
-  "main.toc" 1773351063 1268 0c921936c559e4fedbb2e13a13607a74 "pdflatex"
+  "main.toc" 1773352079 1628 cd4d03211480b906a707d032d1ec61fa "pdflatex"
   "math.tex" 1769753599 298 4c48c66c26696285f5f22c278bd599af ""
   "preamble.tex" 1769649840 346 9529253d1811b82ac3c1e9248e5e227f ""
   (generated)
