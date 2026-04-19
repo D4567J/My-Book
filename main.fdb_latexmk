@@ -1,12 +1,12 @@
 # Fdb version 4
-["biber main"] 0 "main.bcf" "main.bbl" "main" 1773352080.19635 0
+["biber main"] 0 "main.bcf" "main.bbl" "main" 1776562293.51232 0
   "M-sequence Paper.bib" 0 -1 0 ""
   "main.bcf" 0 -1 0 "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1773352078.20642 "g:/My Drive/Repos/My-Book/main.tex" "main.pdf" "main" 1773352080.20962 0
+["pdflatex"] 1776562291.58376 "g:/My Drive/Repos/My-Book/main.tex" "main.pdf" "main" 1776562293.52861 0
   "C:/Users/DAVID/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1769748273 82507 a9eef8696c92627b87e9975edea03b2a ""
   "C:/Users/DAVID/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1095.pk" 1769748277 12668 deff7e7ef321aa693698c13bae2b9005 ""
   "C:/Users/DAVID/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1769542167 13333487 ffb278799bcdb0a73e6d2b6e63ec866f ""
@@ -103,13 +103,13 @@
   "C:/Users/DAVID/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "ee.tex" 1773352080 2178 9d1dcc549b40619cf4c1db441907cb93 ""
   "g:/My Drive/Repos/My-Book/main.tex" 1773350648 420 91d4d465e8c72abd7acb1bee76b9696b ""
-  "leadership.tex" 1773351061 1101 3a37af23effaf36c3197496ba6caa29f ""
-  "main.aux" 1773352079 3073 98f807ed3dc8aa578c2bcc1109c540b2 "pdflatex"
+  "leadership.tex" 1776562288 1353 eaab374e8da8bc1ff15088efedf983a6 ""
+  "main.aux" 1776562292 3462 e6972e0bd3a337ceb4a6a899c03d6c0b "pdflatex"
   "main.bbl" 0 -1 0 "biber main"
-  "main.out" 1773352079 2160 e4e651133b39166ab25a337a8079cf8f "pdflatex"
-  "main.run.xml" 1773352079 2408 46d12d816aca166a56e9d991bac2349e "pdflatex"
+  "main.out" 1776562292 2498 246190db46d9a6d11ba25cf645b3fbaf "pdflatex"
+  "main.run.xml" 1776562292 2408 46d12d816aca166a56e9d991bac2349e "pdflatex"
   "main.tex" 1773350648 420 91d4d465e8c72abd7acb1bee76b9696b ""
-  "main.toc" 1773352079 1628 cd4d03211480b906a707d032d1ec61fa "pdflatex"
+  "main.toc" 1776562292 1894 f72e9b509891a1fa5a6fb43c3da588dd "pdflatex"
   "math.tex" 1769753599 298 4c48c66c26696285f5f22c278bd599af ""
   "preamble.tex" 1769649840 346 9529253d1811b82ac3c1e9248e5e227f ""
   (generated)
