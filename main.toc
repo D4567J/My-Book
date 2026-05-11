@@ -1,25 +1,29 @@
 \contentsline {chapter}{\numberline {1}Mathematical Foundations}{2}{chapter.1}%
-\contentsline {section}{\numberline {1.1}Linear Algebra}{2}{section.1.1}%
-\contentsline {subsection}{\numberline {1.1.1}Vector Spaces}{2}{subsection.1.1.1}%
-\contentsline {subsection}{\numberline {1.1.2}Why This Matters}{2}{subsection.1.1.2}%
+\contentsline {section}{\numberline {1.1}Calculus}{2}{section.1.1}%
+\contentsline {subsection}{\numberline {1.1.1}Vector Calculus}{2}{subsection.1.1.1}%
+\contentsline {subsubsection}{Flux}{2}{section*.2}%
+\contentsline {section}{\numberline {1.2}Linear Algebra}{2}{section.1.2}%
+\contentsline {subsection}{\numberline {1.2.1}Vector Spaces}{2}{subsection.1.2.1}%
+\contentsline {subsection}{\numberline {1.2.2}Why This Matters}{2}{subsection.1.2.2}%
 \contentsline {chapter}{\numberline {2}Electrical Engineering Foundations}{3}{chapter.2}%
 \contentsline {section}{\numberline {2.1}Electro Magnetism}{3}{section.2.1}%
-\contentsline {subsection}{\numberline {2.1.1}Static}{3}{subsection.2.1.1}%
-\contentsline {subsubsection}{Electic Field}{3}{section*.2}%
-\contentsline {section}{\numberline {2.2}Radar}{3}{section.2.2}%
-\contentsline {subsubsection}{Simple Model}{3}{section*.3}%
+\contentsline {subsection}{\numberline {2.1.1}Maxwells Equations}{3}{subsection.2.1.1}%
+\contentsline {subsection}{\numberline {2.1.2}Electic Field}{3}{subsection.2.1.2}%
+\contentsline {section}{\numberline {2.2}Radar}{4}{section.2.2}%
+\contentsline {subsubsection}{Simple Model}{4}{section*.3}%
 \contentsline {subsection}{\numberline {2.2.1}SAR}{4}{subsection.2.2.1}%
 \contentsline {section}{\numberline {2.3}Signals and Systems}{4}{section.2.3}%
 \contentsline {subsection}{\numberline {2.3.1}Adaptive Filtering}{4}{subsection.2.3.1}%
 \contentsline {subsubsection}{ What is an Adaptive filter}{4}{section*.4}%
 \contentsline {subsubsection}{Applications}{4}{section*.5}%
-\contentsline {subsection}{\numberline {2.3.2}Sampling}{4}{subsection.2.3.2}%
-\contentsline {subsection}{\numberline {2.3.3}LTI Systems}{4}{subsection.2.3.3}%
-\contentsline {subsection}{\numberline {2.3.4}Idea}{4}{subsection.2.3.4}%
-\contentsline {chapter}{\numberline {3}My Human Experience}{5}{chapter.3}%
-\contentsline {section}{\numberline {3.1}Ideals}{5}{section.3.1}%
-\contentsline {section}{\numberline {3.2}Leadership}{5}{section.3.2}%
-\contentsline {subsection}{\numberline {3.2.1}Objective}{5}{subsection.3.2.1}%
-\contentsline {subsection}{\numberline {3.2.2}Culture}{5}{subsection.3.2.2}%
-\contentsline {subsection}{\numberline {3.2.3}After Action Reports}{6}{subsection.3.2.3}%
-\contentsline {subsubsection}{International Travel - France}{6}{section*.6}%
+\contentsline {subsection}{\numberline {2.3.2}Sampling}{5}{subsection.2.3.2}%
+\contentsline {subsection}{\numberline {2.3.3}LTI Systems}{5}{subsection.2.3.3}%
+\contentsline {subsection}{\numberline {2.3.4}Idea}{5}{subsection.2.3.4}%
+\contentsline {chapter}{\numberline {3}My Human Experience}{6}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Ideals}{6}{section.3.1}%
+\contentsline {subsection}{\numberline {3.1.1}My Confessions}{6}{subsection.3.1.1}%
+\contentsline {section}{\numberline {3.2}Military Leadership}{7}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}Objective}{7}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.2}Culture}{7}{subsection.3.2.2}%
+\contentsline {subsection}{\numberline {3.2.3}After Action Reports}{7}{subsection.3.2.3}%
+\contentsline {subsubsection}{International Travel - France}{7}{section*.6}%
