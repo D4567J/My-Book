@@ -226,11 +226,6 @@ INPUT ee.tex
 INPUT C:\Users\David\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx8.tfm
 INPUT C:\Users\David\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx6.tfm
 INPUT C:\Users\David\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\tcrm1095.tfm
-INPUT .\leadership.tex
-INPUT .\leadership.tex
-INPUT .\leadership.tex
-INPUT .\leadership.tex
-INPUT leadership.tex
 INPUT main.aux
 INPUT .\main.out
 INPUT .\main.out
