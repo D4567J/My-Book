@@ -1,12 +1,12 @@
 # Fdb version 4
-["biber main"] 0 "main.bcf" "main.bbl" "main" 1778791973.55362 0
+["biber main"] 0 "main.bcf" "main.bbl" "main" 1778793159.35022 0
   "M-sequence Paper.bib" 0 -1 0 ""
   "main.bcf" 0 -1 0 "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1778791972.18086 "g:/My Drive/Repos/My-Book/main.tex" "main.pdf" "main" 1778791973.55652 0
+["pdflatex"] 1778793158.06871 "g:/My Drive/Repos/My-Book/main.tex" "main.pdf" "main" 1778793159.35337 0
   "C:/Users/David/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1778555806 82507 a9eef8696c92627b87e9975edea03b2a ""
   "C:/Users/David/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1095.pk" 1769649373 12668 2125402f957a6b0ae538f607447ad289 ""
   "C:/Users/David/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1769648867 13333487 48681986b35fdd70b75aed4fa1f0d0d8 ""
@@ -114,14 +114,14 @@
   "C:/Users/David/AppData/Local/Programs/MiKTeX/tex/latex/translations/translations.sty" 1644048522 44247 2188b95d0ee74e31eca4d316263c58a7 ""
   "C:/Users/David/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "ee.tex" 1778557540 3082 279ca47e25be9e13a9fd0807a2b749a5 ""
-  "g:/My Drive/Repos/My-Book/main.tex" 1778791970 392 6b4f83f2da00aba9d636c1b6e043ca02 ""
-  "main.aux" 1778791973 3102 d5aa79f0f1ca7a3421ae90da41fd66ee "pdflatex"
+  "g:/My Drive/Repos/My-Book/main.tex" 1778791982 392 6b4f83f2da00aba9d636c1b6e043ca02 ""
+  "main.aux" 1778793158 3210 8d0a4bb2fcc1c60bc6f542806429f0f3 "pdflatex"
   "main.bbl" 0 -1 0 "biber main"
-  "main.out" 1778791973 2344 e5befe52ead1f62c217f2e1732f00ec1 "pdflatex"
-  "main.run.xml" 1778791973 2408 46d12d816aca166a56e9d991bac2349e "pdflatex"
-  "main.tex" 1778791970 392 6b4f83f2da00aba9d636c1b6e043ca02 ""
-  "main.toc" 1778791973 1681 e1807e9ad6e007f279731b00b3d4873a "pdflatex"
-  "math.tex" 1778524816 394 aa6581bc53cd4b728bbad8885c164811 ""
+  "main.out" 1778793158 2344 e5befe52ead1f62c217f2e1732f00ec1 "pdflatex"
+  "main.run.xml" 1778793159 2408 46d12d816aca166a56e9d991bac2349e "pdflatex"
+  "main.tex" 1778791982 392 6b4f83f2da00aba9d636c1b6e043ca02 ""
+  "main.toc" 1778793159 1748 dc4b5740ce0d671c1d7a243e13d52033 "pdflatex"
+  "math.tex" 1778793158 433 aa724bc5542f8a65d005cfe1f8c6129a ""
   "preamble.tex" 1778524089 369 2b372a9d42c143a627a49200e3468b7b ""
   (generated)
   "main.aux"
