@@ -21,3 +21,7 @@
 \contentsline {subsection}{\numberline {2.3.2}Sampling}{5}{subsection.2.3.2}%
 \contentsline {subsection}{\numberline {2.3.3}LTI Systems}{5}{subsection.2.3.3}%
 \contentsline {subsection}{\numberline {2.3.4}Idea}{5}{subsection.2.3.4}%
+\contentsline {chapter}{\numberline {3}Music Theory}{6}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Structure}{6}{section.3.1}%
+\contentsline {subsection}{\numberline {3.1.1}Scale}{6}{subsection.3.1.1}%
+\contentsline {subsection}{\numberline {3.1.2}Key}{6}{subsection.3.1.2}%
