@@ -4,12 +4,86 @@
 \section{Calculus}
 \subsection{Vector Calculus}
 \subsubsection{Coordinate Syestems}
-A coordinate system is a method of describing a space that function exists in. The focus will be on that of three dimensional coordinate systems; many examples exist: 
+    A coordinate system is a method of describing a space that function exists in. The focus will be on that of three dimensional coordinate systems; many examples exist: 
+    \begin{enumerate}
+        \item Cartesian(x,y,z): A point is specified by its coordinates along each basis vector relative to the origin (see Section \ref{Sec:vector Space}).
+        \item Cylindrical($\rho$,$\phi$,z): A point is defined by its radial distance from the origin($\rho$), angle relative to the x direction ($\phi$), and its z coordinate.
+        \begin{align}
+            x &= \rho \cos\phi, \\
+            y &= \rho \sin\phi, \\
+            z &= z.
+        \end{align}
+
+        \begin{align}
+            \rho &= \sqrt{x^2+y^2}, \\
+            \phi &= \operatorname{atan2}(y,x), \\
+            z &= z.
+        \end{align}
+        \item Spherical($\rho$,$\theta$, $\phi$): A point is defined by its radial distance from the origin ($\rho$) and its angle relative to x($\phi$) and z($\theta$). 
+            \begin{align}
+                x &= \rho \sin\theta \cos\phi, \\
+                y &= \rho \sin\theta \sin\phi, \\
+                z &= \rho \cos\theta
+            \end{align}
+
+            \begin{align}
+                \rho &= \sqrt{x^2+y^2+z^2}, \\
+                \phi &= \operatorname{atan2}(y,x), \\
+                \theta &= \arccos\!\left(\frac{z}{r}\right).
+            \end{align}
+    \end{enumerate}
+
+\subsubsection{Vectors}
+\label{sec:vector}
+A vector is a quantity that possesses both magnitude and direction and is commonly denoted as follows:
+
+\begin{equation}
+    \mathbf{v} = \langle a, b \rangle.
+\end{equation}
+
+Here, the vector $\mathbf{v}$ represents a vector originating at the origin and terminating at the point $(a,b)$.
+
+Vector operations include addition, subtraction, and multiplication.
+
 \begin{enumerate}
-    \item Cartesian(x,y,z): A point is specified by its coordinates along each basis vector relative to the origin (see Section \ref{Sec:vector Space}).
-    \item Cylindrical($\rho$,$\phi$,z): 
-    \item Spherical(r,$\theta$, $\phi$): 
+    \item Vector Addition: Adding vectors involves summing the corresponding components of each vector. That is,
+        \begin{equation}
+            \langle x_1, y_1, z_1 \rangle + \langle x_2, y_2, z_2 \rangle
+            = \langle x_1 + x_2, \; y_1 + y_2, \; z_1 + z_2 \rangle
+        \end{equation}
+    \item Vector Subtraction: Similar to that of vector addition with the exception that one vector has its direction reversed. 
+    \item Scalar Multiplication: Multiplying a vector by a scalar scales its magnitude; it changes the vector's length but does not change its direction, except that a negative scalar reverses the direction. 
 \end{enumerate}
+
+
+\subsubsection{Equation of a Line}
+The equation of a line in a 2 dimensional space is as follows 
+
+\begin{equation}
+    y = a*x+b,
+\end{equation}
+
+where $a$ is the slope or the ratio of change relating a change in $x$ to a change in $y$ and $b$ is a starting value of y when x is at the origin. 
+
+In order to calculate a line in 3 dimensions three components are needed: a known point on the line($\vec{a_0} = \langle x_0, y_0, z_0\rangle$), a arbitrary point on the line($\vec{a} = \langle x, y, z\rangle$) and a vector parallel to the line($\vec{v}$). With these components and the vector operation noted in Section \ref{sec:vector} the equation is as follows: 
+
+\begin{align}
+    \vec{b} &= \vec{a_0} - \vec{a}, \\
+    \vec{a} &= \vec{a_0} +  \vec{b}, \\
+    \vec{a} &= \vec{a_0} + t * \vec{v}.
+\end{align} 
+Such that, $t$ is a arbitrary scalar multiplied with the parallel vector $\vec{v}$. This can be further expanded to 
+
+\begin{align}
+    \vec{a} &= \vec{a_0} + t * \vec{v}, \\
+    \vec{a} &= \langle x_0, y_0, z_0\rangle + t * \langle x_v, y_v, z_v\rangle, \\ 
+    \vec{a} &= \langle x_0 + t*x_v, y_0+ t*y_v, z_0+ t*z_v\rangle
+\end{align}
+
+Note that this equation will generate a vector that points to all points on the line as determined by the value of $t$ and can be though of as a laser pointer following the line. 
+
+\subsubsection{Equation of a Plane}
+
 
 \subsubsection{Flux}
 \label{sec:Flux}
@@ -18,7 +92,7 @@ A coordinate system is a method of describing a space that function exists in. T
 \section{Linear Algebra}
 
 \subsection{Vector Spaces}
-\label{Sec:vector Space}
+\label{sec:vector Space}
 
 
 \subsection{Why This Matters}

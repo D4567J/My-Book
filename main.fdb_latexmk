@@ -1,12 +1,12 @@
 # Fdb version 4
-["biber main"] 0 "main.bcf" "main.bbl" "main" 1780603861.0013 0
+["biber main"] 0 "main.bcf" "main.bbl" "main" 1780975231.837 0
   "M-sequence Paper.bib" 0 -1 0 ""
   "main.bcf" 0 -1 0 "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1780603859.10021 "g:/My Drive/Repos/My-Book/main.tex" "main.pdf" "main" 1780603861.00562 0
+["pdflatex"] 1780975229.39996 "g:/My Drive/Repos/My-Book/main.tex" "main.pdf" "main" 1780975231.84379 0
   "C:/Users/DAVID/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1778524095 82507 a9eef8696c92627b87e9975edea03b2a ""
   "C:/Users/DAVID/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1095.pk" 1769748277 12668 deff7e7ef321aa693698c13bae2b9005 ""
   "C:/Users/DAVID/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1769542167 13333487 ffb278799bcdb0a73e6d2b6e63ec866f ""
@@ -120,16 +120,16 @@
   "C:/Users/DAVID/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "Images/circle-of-fifths-full.png" 1780603790 181549 bdb842dc2153468556c15be76a28f0e1 ""
   "ee.tex" 1779907951 3084 3fb972fc1d0b20ff17b011f1f9335e8c ""
-  "g:/My Drive/Repos/My-Book/main.tex" 1780602398 417 e417b8d21386f82d7fb2ee8499956556 ""
-  "main.aux" 1780603860 4006 baaeca01fb89ecd0c08529dbb0fa2198 "pdflatex"
+  "g:/My Drive/Repos/My-Book/main.tex" 1780973749 417 e417b8d21386f82d7fb2ee8499956556 ""
+  "main.aux" 1780975231 4375 a4319af372658f9983b2744c74ac507b "pdflatex"
   "main.bbl" 0 -1 0 "biber main"
-  "main.out" 1780603860 2720 4e5358dbd3e2cd3b1f907e511dd3907b "pdflatex"
-  "main.run.xml" 1780603860 2408 46d12d816aca166a56e9d991bac2349e "pdflatex"
-  "main.tex" 1780602398 417 e417b8d21386f82d7fb2ee8499956556 ""
-  "main.toc" 1780603860 2034 d7a0d56ba338017fde1ca75d36c291be "pdflatex"
-  "math.tex" 1779907239 812 79ef5d84328daf9fbf47e8abeb11a90a ""
+  "main.out" 1780975231 2720 4e5358dbd3e2cd3b1f907e511dd3907b "pdflatex"
+  "main.run.xml" 1780975231 2408 46d12d816aca166a56e9d991bac2349e "pdflatex"
+  "main.tex" 1780973749 417 e417b8d21386f82d7fb2ee8499956556 ""
+  "main.toc" 1780975231 2222 ce62ea90e9b420bb6ed8a23829d02771 "pdflatex"
+  "math.tex" 1780975226 4300 d1e44e9d5b04119da3fbaa2936983f8f ""
   "music.tex" 1780603858 750 e202d7e0c846afafbb725b1098342b5c ""
-  "preamble.tex" 1780603647 392 1b5af8f5a3f8da50c05da4d08f23eadd ""
+  "preamble.tex" 1780963584 400 f5e419a1d83b756229c24f27d4c39424 ""
   (generated)
   "main.aux"
   "main.bcf"
