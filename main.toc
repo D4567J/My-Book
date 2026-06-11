@@ -3,7 +3,7 @@
 \contentsline {subsection}{\numberline {1.1.1}Vector Calculus}{2}{subsection.1.1.1}%
 \contentsline {subsubsection}{Coordinate Syestems}{2}{section*.2}%
 \contentsline {subsubsection}{Vectors}{3}{section*.3}%
-\contentsline {subsubsection}{Equation of a Line}{3}{section*.4}%
+\contentsline {subsubsection}{Equation of a Line}{4}{section*.4}%
 \contentsline {subsubsection}{Equation of a Plane}{4}{section*.5}%
 \contentsline {subsubsection}{Flux}{4}{section*.6}%
 \contentsline {section}{\numberline {1.2}Linear Algebra}{4}{section.1.2}%
